@@ -1,1 +1,1 @@
-include ':app', ':chat-ui'
+include ':chat-ui'
